@@ -1,3 +1,3 @@
-installer jdk
-ouvrir avec un ide
-lancer l'application
+# installer jdk
+# ouvrir avec un ide
+# lancer l'application
